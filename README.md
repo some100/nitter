@@ -7,7 +7,7 @@
 A free and open source alternative Twitter front-end focused on privacy and
 performance. \
 Inspired by the [Invidious](https://github.com/iv-org/invidious)
-project.
+project. 
 
 - No JavaScript or ads
 - All requests go through the backend, client never talks to Twitter
